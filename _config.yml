@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0.9121864
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#191816'
+    - '#535351'
+    - '#767674'
+    - '#C9CAC2'
+  rhythmicContrast: 0.9369749
+typography_spectrum: 0.6039426
+name: Oz Technology Centre

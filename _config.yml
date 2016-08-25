@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 1
+  brandStrength: 0.5412186
   lightness: 0.9121864
-  brandStrength: 1
   brandColors:
     - '#FFFFFF'
-    - '#191816'
-    - '#535351'
-    - '#767674'
-    - '#C9CAC2'
+    - '#171717'
+    - '#3D3E38'
+    - '#969C9A'
+    - '#BCBEBB'
   rhythmicContrast: 0.9369749
 typography_spectrum: 0.6039426
+layout_spectrum: 1
 name: Oz Tech Centre

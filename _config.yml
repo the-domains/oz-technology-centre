@@ -1,3 +1,17 @@
+typography_spectrum: 0.6039426
+color:
+  saturation: 1
+  brandStrength: 0.5412186
+  lightness: 0.9121864
+  brandColors:
+    - '#FFFFFF'
+    - '#171717'
+    - '#3D3E38'
+    - '#969C9A'
+    - '#BCBEBB'
+  rhythmicContrast: 0.9369749
+layout_spectrum: 1
+name: Oz Tech Centre
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 0.5412186
-  lightness: 0.9121864
-  brandColors:
-    - '#FFFFFF'
-    - '#171717'
-    - '#3D3E38'
-    - '#969C9A'
-    - '#BCBEBB'
-  rhythmicContrast: 0.9369749
-typography_spectrum: 0.6039426
-layout_spectrum: 1
-name: Oz Tech Centre
+title: OZ TECHNOLOGY CENTRE
